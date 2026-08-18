@@ -18,6 +18,43 @@ Wander AI 是一款 AI 旅行规划产品，将城市、天数、预算和兴趣
 4. 查看和编辑生成的每日行程。
 5. 关闭并重启 App，验证游客行程的本地恢复。
 
+## 产品界面
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/01-home-empty-state.png" width="280" alt="Wander AI 首页">
+      <br>
+      <sub>首页：游客无需登录即可开始规划</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/02-create-trip-options.png" width="280" alt="Wander AI 新建行程">
+      <br>
+      <sub>新建行程：选择极速生成、个性定制或自主规划</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/screenshots/03-ai-plan-options.png" width="220" alt="Wander AI 多方案选择">
+      <br>
+      <sub>多方案：比较不同风格的旅行路线</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/screenshots/04-ai-itinerary-detail.png" width="220" alt="Wander AI AI 行程详情">
+      <br>
+      <sub>AI 行程：查看并编辑每日规划</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/screenshots/05-trip-billing.png" width="220" alt="Wander AI 旅行账单">
+      <br>
+      <sub>旅行账单：记录消费并支持成员分摊</sub>
+    </td>
+  </tr>
+</table>
+
 ## 核心产品能力
 
 - 根据结构化旅行需求生成多日行程。
@@ -44,10 +81,6 @@ Wander AI 是一款 AI 旅行规划产品，将城市、天数、预算和兴趣
 ## 技术栈
 
 React Native · Expo Router · Supabase Auth / Edge Functions · Qwen · 高德 POI · AsyncStorage · EAS Build
-
-## Demo 截图与视频
-
-截图和短视频将在完成隐私检查后补充。
 
 ## 当前项目范围
 
